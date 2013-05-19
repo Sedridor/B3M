@@ -6,5 +6,7 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.5.2 \(19-5-2013\)<br>
+\- Updated to 1.5.2<br>
 <font size=1>1.5.1 \(19-5-2013\)<br>
 \- Initial upload</font>
