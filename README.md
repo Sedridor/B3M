@@ -1,4 +1,4 @@
-**Вращение Земли Майнкрафтская (Time-speed Mod) for Minecraft 1.5.2**
+**Вращение Земли Майнкрафтская (Time-speed Mod) for Minecraft 1.7.2**
 
 #### **[DOWNLOAD](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
