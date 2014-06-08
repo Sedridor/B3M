@@ -6,6 +6,9 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.5.2/1.7.2 \[7-6-2014\]<br>
+\- The sun's declination can now vary<br>
+\- Variable day/night ratios<br>
 <font size=1>1.4.7-1.7.2 \[5-6-2014\]<br>
 \- Rewritten to ensure much higher accuracy<br>
 \- Time scale setting is now saved per world<br>
