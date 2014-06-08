@@ -7,8 +7,8 @@
 
 **Changelog**<br>
 <font size=1>1.5.2/1.7.2 \[7-6-2014\]<br>
-\- The sun's declination can now vary<br>
-\- Variable day/night ratios<br>
+\- The sun can now tilt depending on season<br>
+\- Variable day/night lengths<br>
 <font size=1>1.4.7-1.7.2 \[5-6-2014\]<br>
 \- Rewritten to ensure much higher accuracy<br>
 \- Time scale setting is now saved per world<br>
