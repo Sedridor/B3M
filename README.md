@@ -6,6 +6,8 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.5.2-1.7.2 \[14-6-2014\]<br>
+\- Some fixes<br>
 <font size=1>1.5.2/1.7.2 \[7-6-2014\]<br>
 \- The sun can now tilt depending on season<br>
 \- Variable day/night lengths<br>
