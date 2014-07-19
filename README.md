@@ -6,6 +6,12 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.7.10 \[20-7-2014\]<br>
+\- Beds now adjust to variable daylight length<br>
+\- Added option to sync with system time<br>
+\- Text display size can now be bigger<br>
+\- Added option to display calendar date<br>
+\- New worlds can now start in daylight<br>
 <font size=1>1.7.10 \[24-6-2014\]<br>
 \- Updated to 1.7.10<br>
 <font size=1>1.5.2-1.7.2 \[14-6-2014\]<br>
