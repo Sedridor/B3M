@@ -6,6 +6,9 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.7.10 / \[27-7-2014\]<br>
+\- Fixed an issue with the vignette<br>
+\- Fix for dawn shifting below 0 when starting new worlds with variable day lengths turned off<br>
 <font size=1>1.7.10 \[20-7-2014\]<br>
 \- Beds now adjust to variable daylight length<br>
 \- Added option to sync with system time<br>
