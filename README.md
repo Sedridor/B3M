@@ -6,6 +6,8 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.8.9 / \[14-3-2016\]<br>
+\- Updated to 1.8.9<br>
 <font size=1>1.7.10 / \[27-7-2014\]<br>
 \- Fixed an issue with the vignette<br>
 \- Fix for dawn shifting below 0 when starting new worlds with variable day lengths turned off<br>
