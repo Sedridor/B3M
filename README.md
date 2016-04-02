@@ -6,6 +6,10 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.9/1.8.9/1.7.10 / \[29-3-2016\]<br>
+\- Added compatibility with shaders<br>
+\- New textures for sun and moon (only visible with no resource pack active)<br>
+\- Various fixes and improvements<br>
 <font size=1>1.9 / \[21-3-2016\]<br>
 \- Updated to 1.9<br>
 <font size=1>1.8.9 / \[14-3-2016\]<br>
