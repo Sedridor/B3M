@@ -6,6 +6,9 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.9 - \[10-4-2016\]<br>
+\- Fixed issue with StorageDrawers<br>
+\- Fixed moon texture<br>
 <font size=1>1.9 - \[2-4-2016\]<br>
 \- Fixed for Forge 1805+<br>
 <font size=1>1.9/1.8.9/1.7.10 - \[29-3-2016\]<br>
