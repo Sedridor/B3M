@@ -6,6 +6,8 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**<br>
+<font size=1>1.9.4 - \[20-5-2016\]<br>
+\- Updated to 1.9.4<br>
 <font size=1>1.9/1.8.9/1.7.10 - \[4-5-2016\]<br>
 \- Fixed time syncing code<br>
 <font size=1>1.9/1.8.9/1.7.10 - \[17-4-2016\]<br>
