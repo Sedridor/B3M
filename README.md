@@ -2,8 +2,8 @@
 
 #### **[DOWNLOAD](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
-**<font size=2 color=red>MinecraftForge required!</font>**
-<font size=1>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
+**MinecraftForge required!**
+`[http://files.minecraftforge.net](http://files.minecraftforge.net)`
 
 ### **Changelog**
 
