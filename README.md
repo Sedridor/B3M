@@ -1,4 +1,4 @@
-**Вращение Земли Майнкрафтская (Accurate Day/Night-cycle Mod) for Minecraft 1.7.10 - 1.12.2**
+###**Вращение Земли Майнкрафтская (Accurate Day/Night-cycle Mod) for Minecraft 1.7.10 - 1.12.2**
 
 #### **[DOWNLOAD](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
@@ -6,13 +6,14 @@
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
 **Changelog**
-Version 1.12.2-15 / 1.7.9-14 [14-6-2019]
+
+'Version 1.12.2-15 / 1.7.9-14 [14-6-2019]'
 - Fixed issue with mob spawning on servers
 - Fixed issue with time multiplier becoming inaccurate on worlds that run for a long time
 - Rewritten dawn time calculation used for first spawn and wake-up to be 100% accurate for all latitudes
 - 1.12.2: Added option to keep Serene Seasons independent from B3M date
 
-Version 1.12.2-14 / 1.7.9-12 [28-4-2019]
+'Version 1.12.2-14 / 1.7.9-12 [28-4-2019]'
 - Fixed issue causing settings to revert
 - Implemented an API
 - Added option to hide seed from F3 screen in single player worlds
