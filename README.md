@@ -1,12 +1,10 @@
-### **Вращение Земли Майнкрафтская (Accurate Day/Night-cycle Mod) for Minecraft 1.7.10 - 1.12.2**
+### **Вращение Земли Майнкрафтская (Accurate Day/Night-cycle Mod) for Minecraft**
 
-#### **[DOWNLOAD](https://github.com/Sedridor/B3M/wiki/Downloads)**
+#### **[DOWNLOADS](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
-**MinecraftForge required!**
-[http://files.minecraftforge.net](http://files.minecraftforge.net)
+##### **MinecraftForge required!** ([http://files.minecraftforge.net](http://files.minecraftforge.net))
 
-### **Changelog**
-
+## **Changelog**
 **`1.12.2-15 / 1.7.9-14`** *`[14-6-2019]`*
 - Fixed issue with mob spawning on servers
 - Fixed issue with time multiplier becoming inaccurate on worlds that run for a long time
