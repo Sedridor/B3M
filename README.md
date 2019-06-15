@@ -13,7 +13,7 @@
 - Rewritten dawn time calculation used for first spawn and wake-up to be 100% accurate for all latitudes
 - 1.12.2: Added option to keep Serene Seasons independent from B3M date
 ##
-**`1.12.2-14 / 1.7.9-12 [28-4-2019]`**
+**`1.12.2-14 / 1.7.9-12`** *`[28-4-2019]`*
 - Fixed issue causing settings to revert
 - Implemented an API
 - Added option to hide seed from F3 screen in single player worlds
@@ -21,7 +21,7 @@
 **`1.12.2-12 [2-2-2019]`**
 - Fixed crash upon sleeping
 
-**`1.12.2-10 / 1.7.9-10 [27-1-2019]`**
+**`1.12.2-10 / 1.7.9-10** *[27-1-2019]`*
 - Completely redesigned pathing of sun and moon to be more realistic
 - Removed latitude limit, can now be set up to 90 (polar days and nights are possible)
 - Fixed wrong season for southern latitudes
