@@ -3,7 +3,7 @@
 #### **[DOWNLOAD](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
 **MinecraftForge required!**
-`[http://files.minecraftforge.net](http://files.minecraftforge.net)`
+[http://files.minecraftforge.net](http://files.minecraftforge.net)
 
 ### **Changelog**
 
