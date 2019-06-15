@@ -11,7 +11,7 @@
 - Fixed issue with mob spawning on servers
 - Fixed issue with time multiplier becoming inaccurate on worlds that run for a long time
 - Rewritten dawn time calculation used for first spawn and wake-up to be 100% accurate for all latitudes
-- 1.12.2: Added option to keep Serene Seasons independent from B3M date
+- **1.12.2:** Added option to keep Serene Seasons independent from B3M date
 ##
 **`1.12.2-14 / 1.7.9-12`** *`[28-4-2019]`*
 - Fixed issue causing settings to revert
@@ -28,7 +28,7 @@
 - Improved darker nights
 ##
 **`1.12.2-02 / 1.9.4-07 / 1.7.9-08`** *`[7-7-2018]`*
-- 1.12.2: Added support for Serena Seasons
+- **1.12.2:** Added support for Serena Seasons
 - Implemented feature for darker nights
 - Implemented more commands, changed settings now get saved after exiting a world
 - Implemented update checker
@@ -86,7 +86,7 @@
 - Variable sun path, its declination will vary depending on season
 - Variable day/night lengths, depending on season
 ##
-**`1.4.7-1.7.2 [5-6-2014]`**
+**`1.4.7-1.7.2`** *`[5-6-2014]`*
 - Rewritten to ensure much higher accuracy
 - Time scale setting is now saved per world
 - Config file setting is only used when starting new worlds
