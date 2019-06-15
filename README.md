@@ -1,41 +1,96 @@
-**Вращение Земли Майнкрафтская (Time-speed Mod) for Minecraft 1.7.10**
+**Вращение Земли Майнкрафтская (Accurate Day/Night-cycle Mod) for Minecraft 1.7.10 - 1.12.2**
 
 #### **[DOWNLOAD](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
-**<font size=4 color=red>MinecraftForge required!</font>**<br>
+**<font size=4 color=red>MinecraftForge required!</font>**
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
-**Changelog**<br>
-<font size=1>1.9.4 - \[20-5-2016\]<br>
-\- Updated to 1.9.4<br>
-<font size=1>1.9/1.8.9/1.7.10 - \[4-5-2016\]<br>
-\- Fixed time syncing code<br>
-<font size=1>1.9/1.8.9/1.7.10 - \[17-4-2016\]<br>
-\- More fixes<br>
-<font size=1>1.9 - \[10-4-2016\]<br>
-\- Fixed issue with StorageDrawers<br>
-\- Fixed moon texture<br>
-<font size=1>1.9 - \[2-4-2016\]<br>
-\- Fixed for Forge 1805+<br>
-<font size=1>1.9/1.8.9/1.7.10 - \[29-3-2016\]<br>
-\- Added compatibility with shaders<br>
-\- New textures for sun and moon (only visible with no resource pack active)<br>
-\- Various fixes and improvements<br>
-<font size=1>1.9 - \[21-3-2016\]<br>
-\- Updated to 1.9<br>
-<font size=1>1.8.9 - \[14-3-2016\]<br>
-\- Updated to 1.8.9<br>
-<font size=1>1.7.10 - \[27-7-2014\]<br>
-\- Fixed an issue with the vignette<br>
-\- Fix for dawn shifting below 0 when starting new worlds with variable day lengths turned off<br>
-<font size=1>1.7.10 - \[20-7-2014\]<br>
-\- Beds now adjust to variable daylight length<br>
-\- Added option to sync with system time<br>
-\- Text display size can now be bigger<br>
-\- Added option to display calendar date<br>
-\- New worlds can now start in daylight<br>
-<font size=1>1.7.10 - \[24-6-2014\]<br>
-\- Updated to 1.7.10<br>
+**Changelog**
+Version 1.12.2-15 / 1.7.9-14 [14-6-2019]
+- Fixed issue with mob spawning on servers
+- Fixed issue with time multiplier becoming inaccurate on worlds that run for a long time
+- Rewritten dawn time calculation used for first spawn and wake-up to be 100% accurate for all latitudes
+- 1.12.2: Added option to keep Serene Seasons independent from B3M date
+
+Version 1.12.2-14 / 1.7.9-12 [28-4-2019]
+- Fixed issue causing settings to revert
+- Implemented an API
+- Added option to hide seed from F3 screen in single player worlds
+
+Version 1.12.2-12 [2-2-2019]
+- Fixed crash upon sleeping
+
+Version 1.12.2-10 / 1.7.9-10 [27-1-2019]
+- Completely redesigned pathing of sun and moon to be more realistic
+- Removed latitude limit, can now be set up to 90 (polar days and nights are possible)
+- Fixed wrong season for southern latitudes
+- Improved darker nights
+
+Version 1.12.2-02 / 1.9.4-07 / 1.7.9-08 [7-7-2018]
+- 1.12.2: Added support for Serena Seasons
+- Implemented feature for darker nights
+- Implemented more commands, changed settings now get saved after exiting a world
+- Implemented update checker
+- Fixed day length depending on latitude
+- Fixed compatibility with MalisisCore
+- Fixed other glitches
+
+Version 1.12.2-01 [20-5-2018]
+- Updated for 1.12.2
+
+Version 1.11-01 [7-12-2016]
+- Updated for 1.11
+
+Version 1.9.4-04 [7-12-2016]
+- Fixed issue with shaders
+
+Version 1.9.4-02 [7-12-2016]
+- Updated for the latest Forge (1.9.4-1990 / 1.10.2-2171)
+
+Version 1.9.4-01 [20-5-2016]
+- Updated to 1.9.4
+
+Version 1.9-04 [2-4-2016]
+- Updated for Forge 1805+
+
+Version 1.9-02/1.8.9-02/1.7.9-05 [29-3-2016]
+- Added compatibility with shaders
+- New textures for sun and moon
+- Various other fixes and improvements
+
+Version 1.9-01 [21-3-2016]
+- Updated to 1.9
+
+Version 1.8.9-01 [14-3-2016]
+- Updated to 1.8.9
+
+Version 1.7.9-02 [27-7-2014]
+- Fixed an issue with the vignette
+- Fix for dawn shifting below 0 when starting new worlds with variable day lengths turned off
+
+Version 1.7.9-02 [20-7-2014]
+- Beds now adjust to variable daylight length
+- Added option to sync with system time
+- Text display size can now be bigger
+- Added option to display calendar date
+- New worlds can now start in daylight
+
+Version 1.7.9-01 [27-6-2014]
+- Updated to 1.7.10
+
+Version 1.5.2-09 / 1.7.2-07 / 1.6.4-06 [14-6-2014]
+- Various fixes
+
+Version 1.5.2-08 / 1.7.2-05 [7-6-2014]
+- Variable sun path, its declination will vary depending on season
+- Variable day/night lengths, depending on season
+
+Version 1.4.7-1.7.2 [5-6-2014]
+- Rewritten to ensure much higher accuracy
+- Time scale setting is now saved per world
+- Config file setting is only used when starting new worlds
+- Fixed some glitches
+
 <font size=1>1.5.2-1.7.2 - \[14-6-2014\]<br>
 \- Some fixes<br>
 <font size=1>1.5.2/1.7.2 - \[7-6-2014\]<br>
