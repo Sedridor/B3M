@@ -1,4 +1,4 @@
-###**Вращение Земли Майнкрафтская (Accurate Day/Night-cycle Mod) for Minecraft 1.7.10 - 1.12.2**
+### **Вращение Земли Майнкрафтская (Accurate Day/Night-cycle Mod) for Minecraft 1.7.10 - 1.12.2**
 
 #### **[DOWNLOAD](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
