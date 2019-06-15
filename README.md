@@ -5,9 +5,9 @@
 **<font size=4 color=red>MinecraftForge required!</font>**
 <font size=2>[http://files.minecraftforge.net](http://files.minecraftforge.net)</font>
 
-**Changelog**
+### **Changelog**
 
-**`1.12.2-15 / 1.7.9-14 *[14-6-2019]*`**
+**`1.12.2-15 / 1.7.9-14`** *`[14-6-2019]`*
 - Fixed issue with mob spawning on servers
 - Fixed issue with time multiplier becoming inaccurate on worlds that run for a long time
 - Rewritten dawn time calculation used for first spawn and wake-up to be 100% accurate for all latitudes
