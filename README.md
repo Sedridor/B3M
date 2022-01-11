@@ -5,6 +5,31 @@
 ##### **MinecraftForge required!** ([http://files.minecraftforge.net](http://files.minecraftforge.net))
 
 ## **Changelog**
+**`1.18-01`** *`[9-12-2021]`*
+- Updated for 1.18
+##
+**`1.17-01`** *`[9-12-2021]`*
+- Fixed compatibility with shaders
+- Fixed issue with SereneSeasons
+##
+**`1.17-beta1`** *`[12-8-2021]`*
+- Updated for 1.17
+##
+**`1.16.4-02`** *`[22-12-2020]`*
+- Updated for 1.16.4
+- Fixed compatibility with shaders
+##
+**`1.15.2-02 / 1.14.4-02 / 1.12.2-17 / 1.7.9-17`** *`[28-6-2020]`*
+- Added command to reset settings
+- Improved darker nights
+##
+**`1.15.2-01 / 1.14.4-01`** *`[4-6-2020]`*
+- Updated for 1.15.2
+- Updated for 1.14.4
+##
+**`1.12.2-17 / 1.7.9-15`** *`[4-6-2020]`*
+- Fixed some glitches
+##
 **`1.12.2-15 / 1.7.9-14`** *`[14-6-2019]`*
 - Fixed issue with mob spawning on servers
 - Fixed issue with time multiplier becoming inaccurate on worlds that run for a long time
