@@ -2,7 +2,7 @@
 
 #### **[DOWNLOADS](https://github.com/Sedridor/B3M/wiki/Downloads)**
 
-##### **MinecraftForge required!** ([http://files.minecraftforge.net](http://files.minecraftforge.net))
+##### **MinecraftForge required!** ([https://files.minecraftforge.net](https://files.minecraftforge.net))
 
 ## **Changelog**
 **`1.18-01`** *`[9-12-2021]`*
