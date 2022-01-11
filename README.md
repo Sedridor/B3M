@@ -5,6 +5,12 @@
 ##### **MinecraftForge required!** ([http://files.minecraftforge.net](http://files.minecraftforge.net))
 
 ## **Changelog**
+**`1.12.2-17 / 1.7.9-15`** *`[4-6-2020]`*
+- Fixed some glitches
+##
+**`1.12.2-17 / 1.7.9-15`** *`[4-6-2020]`*
+- Fixed some glitches
+##
 **`1.12.2-15 / 1.7.9-14`** *`[14-6-2019]`*
 - Fixed issue with mob spawning on servers
 - Fixed issue with time multiplier becoming inaccurate on worlds that run for a long time
